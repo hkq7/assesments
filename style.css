@@ -1,0 +1,23 @@
+*{
+margin:0px;
+pading:0px;
+box-sizing: border-box;
+Fontfamily:Arial;
+}
+nav{
+  background-color:pink;
+  position:fixed:
+  padding-top:20px;
+  padding-bottom:20px;
+  
+}
+a{
+  color:red;
+  text-decoration:none;
+  padding-left:30px;
+  padding-right:30px; 
+  
+}
+body{
+ 
+}
